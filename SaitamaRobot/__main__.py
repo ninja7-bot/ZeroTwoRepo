@@ -84,7 +84,7 @@ And the following:
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
 ZEROTWO_IMG = "https://images.alphacoders.com/901/901812.png" #"https://telegra.ph/file/ff21a6f2a29ac89932368.master
-ZEROTWO_YAWN = "https://telegra.ph/file/1e2d0f46f857867353e31.mp4"
+ZEROTWO_YAWN = "https://telegra.ph/file/df5c1103ab9d539ab760d.gif"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 Zero Two is basically a forked version of Saitama, so there is no needs of funding for me right now. But\
