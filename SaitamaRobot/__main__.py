@@ -228,7 +228,7 @@ def start(update: Update, context: CallbackContext):
 
                      ]]))
     else:
-        update.effective_message.reply_media(
+        update.effective_message.reply_video(
             ZEROTWO_YAWN)
 
 
