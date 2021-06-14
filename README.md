@@ -17,7 +17,8 @@ News channel as at [Franxx Updates](https://https://t.me/zerotwoupdates)
 
 ### NOTE
 1. Get yourself a database from [Elephant SQL](elephantsql.com) instead of using Heroku Add on.
-2. Add Redis Cloud as well. Create new VAR REDIS_URL and fill it with the URL you got from the add on. Also, it is free ^_^
+2. Add Redis Cloud as well. Create new VAR REDIS_URL and fill it with the URL you got from the add on. Also, it is free ^_^ 
+3. Don't bother anyone else for your own sake, no one asked you to be a dev, it was your own choice. Learn by yourself as well.
 
 ## Credits
 The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars).
